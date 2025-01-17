@@ -3,7 +3,7 @@
 Hi, I'm Albanus Kioko, a passionate full-stack software engineer skilled in JavaScript, Python, Java, and React. I create elegant, user-friendly applications.
 
 ### 💻 SKILL SET:
-`HTML5`, `CSS3`, `JavaScript`, `Python`, `PHP`, `MsSQL`, `MySQL`, `AWS`.
+`HTML5`, `CSS3`, `JavaScript`,`React`, `java`, `Python`, `PHP`, `MsSQL`, `MySQL`, `AWS`.
 
 ### 📊 GITHUB STATS:
 <center>
