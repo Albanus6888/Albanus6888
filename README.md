@@ -25,14 +25,7 @@ Hi, I'm Albanus Kioko, a passionate full-stack software engineer skilled in Java
 
 
 
-🌐Socials:
-<div align="left">
-  
-   <a href="http://www.linkedin.com/in/albanus-davis-072aa71b3">
-    
-  <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
-      alt="LinkedIn"
-    />
-  </a>
-</div>
+ ## 🌐 Socials:
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/albanus-davis-072aa71b3)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/)
+
