@@ -20,8 +20,7 @@ Hi, I'm Albanus Kioko, a passionate full-stack software engineer skilled in Java
   <hr>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MuneneCalvin&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MuneneCalvin&theme=dracula&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuneneCalvin&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <hr>
