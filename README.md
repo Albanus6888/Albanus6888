@@ -16,7 +16,8 @@ Hi, I'm Albanus Kioko, a passionate full-stack software engineer skilled in Java
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Albanus6888&theme=dark" /></td>    
     </tr>   
   </table>
-</center>
+</center
+  
 ### 🌐 Socials:
 <div align="left">
  
