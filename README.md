@@ -1,4 +1,5 @@
-<!-- ![About Me](https://img.shields.io/badge/About-Me-purple?style=for-the-badge) -->
+
+![About Me](https://img.shields.io/badge/About-Me-blue?style=for-the-badge)
 
 Hi, I'm Albanus Kioko, a passionate full-stack software engineer skilled in JavaScript, Python, Java, and React. I create elegant, user-friendly applications.
 
